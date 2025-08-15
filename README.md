@@ -4,6 +4,8 @@ This project is an **Automated Data Analysis & Reporting Agent** built using **G
 It is capable of performing **data cleaning**, **exploratory data analysis (EDA)**, and **question answering** 
 based on the uploaded dataset.
 
+![ezgif-47103a196e30f8](https://github.com/user-attachments/assets/a39442d7-3c0c-451f-9e49-bce05f0c1172)
+
 ## Features
 
 - **Data Cleaning Agent** – Automatically detects and handles missing values, duplicates, and formatting issues.
